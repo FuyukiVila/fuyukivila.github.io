@@ -1,3 +1,4 @@
 [submodule "themes/geek"]
 	path = themes/geek
 	url = https://github.com/FuyukiVila/hexo-theme-geek.git
+	branch = master
