@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>イルミネーション</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://fuyukivila.github.io/"/>
+  <updated>2024-12-09T13:07:27.702Z</updated>
+  <id>https://fuyukivila.github.io/</id>
+  
+  <author>
+    <name>Fuyuki_Vila</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>测试文章</title>
+    <link href="https://fuyukivila.github.io/archives/none/test/"/>
+    <id>https://fuyukivila.github.io/archives/none/test/</id>
+    <published>2024-12-09T09:49:32.000Z</published>
+    <updated>2024-12-09T13:07:27.702Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2&gt;&lt;span id=&quot;测试文章&quot;&gt;测试文章&lt;/span&gt;&lt;/h2&gt;&lt;h3&gt;&lt;span id=&quot;代码高亮测试&quot;&gt;代码高亮测试&lt;/span&gt;&lt;/h3&gt;&lt;pre class=&quot;line-numbers language-python&quot;&gt;&lt;code
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
