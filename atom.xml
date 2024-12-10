@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://fuyukivila.xyz@2783be2e/"/>
-  <updated>2024-12-10T05:10:54.284Z</updated>
-  <id>https://fuyukivila.xyz@2783be2e/</id>
+  <link href="https://fuyukivila.xyz@9b3c9912/"/>
+  <updated>2024-12-10T05:14:27.282Z</updated>
+  <id>https://fuyukivila.xyz@9b3c9912/</id>
   
   <author>
     <name>Fuyuki_Vila</name>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>测试文章</title>
-    <link href="https://fuyukivila.xyz@2783be2e/archives/test/test/"/>
-    <id>https://fuyukivila.xyz@2783be2e/archives/test/test/</id>
+    <link href="https://fuyukivila.xyz@9b3c9912/archives/test/test/"/>
+    <id>https://fuyukivila.xyz@9b3c9912/archives/test/test/</id>
     <published>2024-12-09T09:49:32.000Z</published>
-    <updated>2024-12-10T05:10:54.284Z</updated>
+    <updated>2024-12-10T05:14:27.282Z</updated>
     
     <summary type="html">
     
@@ -36,10 +36,10 @@
     </summary>
     
     
-      <category term="test" scheme="https://fuyukivila.xyz@2783be2e/categories/test/"/>
+      <category term="test" scheme="https://fuyukivila.xyz@9b3c9912/categories/test/"/>
     
     
-      <category term="测试" scheme="https://fuyukivila.xyz@2783be2e/tags/%E6%B5%8B%E8%AF%95/"/>
+      <category term="测试" scheme="https://fuyukivila.xyz@9b3c9912/tags/%E6%B5%8B%E8%AF%95/"/>
     
   </entry>
   
