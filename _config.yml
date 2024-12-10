@@ -96,11 +96,12 @@ theme: geek
 
 plugin:
   - hexo-generator-category-enhance
+  - hexo-generator-tag
+  - hexo-generator-archive
   - hexo-generator-feed
   - hexo-asset-image
   - hexo-prism-plugin
   - hexo-auto-category
-  - hexo-generator-tag
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
@@ -143,12 +144,3 @@ prism_plugin:
 auto_category:
   enable: true
   multiple: false
-
-cute:
-  enable: true
-  html:
-    enable: true
-  css: 
-    enable: true
-  js: 
-    enable: true
