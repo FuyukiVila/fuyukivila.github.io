@@ -14,13 +14,19 @@ body {
   margin: 0;
   overscroll-behavior: none;
 }
-body[path='archives/index.html'] .logopng {
+body[path='archives/index.html'] .logopng,
+body[path^='tags/'] .logopng,
+body[path^='categories/'] .logopng {
   display: none;
 }
-body[path='archives/index.html'] .logot {
+body[path='archives/index.html'] .logot,
+body[path^='tags/'] .logot,
+body[path^='categories/'] .logot {
   margin-top: 10px;
 }
-body[path='archives/index.html'] .more {
+body[path='archives/index.html'] .more,
+body[path^='tags/'] .more,
+body[path^='categories/'] .more {
   display: none;
 }
 body::before {
