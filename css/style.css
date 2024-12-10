@@ -14,9 +14,6 @@ body {
   margin: 0;
   overscroll-behavior: none;
 }
-body[path='index.html'] {
-  height: auto;
-}
 body[path='archives/index.html'] .logopng {
   display: none;
 }
@@ -27,13 +24,13 @@ body[path='archives/index.html'] .more {
   display: none;
 }
 body::before {
-  content: '';
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
+  content: "";
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
   opacity: 0.2;
-  position: center;
+  position: fixed;
   background-image: url("https://cdn.jsdelivr.net/gh/fuyukivila/fuyukivila.github.io@gh-pages/img/bg.png");
   background-size: cover;
   background-repeat: no-repeat;
@@ -50,6 +47,9 @@ a:hover {
   text-decoration: underline;
 }
 .footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
   text-align: center;
   margin-top: 30px;
   margin-bottom: 20px;
