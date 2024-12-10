@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://fuyukivila.xyz@ad99db08/"/>
-  <updated>2024-12-09T16:51:37.941Z</updated>
-  <id>https://fuyukivila.xyz@ad99db08/</id>
+  <link href="https://fuyukivila.xyz@cd6cc3c1/"/>
+  <updated>2024-12-10T04:52:03.998Z</updated>
+  <id>https://fuyukivila.xyz@cd6cc3c1/</id>
   
   <author>
     <name>Fuyuki_Vila</name>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>测试文章</title>
-    <link href="https://fuyukivila.xyz@ad99db08/archives/none/test/"/>
-    <id>https://fuyukivila.xyz@ad99db08/archives/none/test/</id>
+    <link href="https://fuyukivila.xyz@cd6cc3c1/archives/test/test/"/>
+    <id>https://fuyukivila.xyz@cd6cc3c1/archives/test/test/</id>
     <published>2024-12-09T09:49:32.000Z</published>
-    <updated>2024-12-09T16:51:37.941Z</updated>
+    <updated>2024-12-10T04:52:03.998Z</updated>
     
     <summary type="html">
     
@@ -29,13 +29,17 @@
       
         
         
-          &lt;h2&gt;&lt;span id=&quot;测试文章&quot;&gt;测试文章&lt;/span&gt;&lt;/h2&gt;&lt;h3&gt;&lt;span id=&quot;代码高亮测试&quot;&gt;代码高亮测试&lt;/span&gt;&lt;/h3&gt;&lt;pre class=&quot;line-numbers language-python&quot;&gt;&lt;code
+          &lt;h2&gt;测试文章&lt;/h2&gt;&lt;h3&gt;代码高亮测试&lt;/h3&gt;&lt;pre class=&quot;line-numbers language-python&quot;&gt;&lt;code class=&quot;language-python&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;def&lt;/span&gt;
         
       
     
     </summary>
     
     
+      <category term="test" scheme="https://fuyukivila.xyz@cd6cc3c1/categories/test/"/>
+    
+    
+      <category term="测试" scheme="https://fuyukivila.xyz@cd6cc3c1/tags/%E6%B5%8B%E8%AF%95/"/>
     
   </entry>
   
