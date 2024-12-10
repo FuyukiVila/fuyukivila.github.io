@@ -10,7 +10,6 @@ body {
   line-height: 1.725;
   text-rendering: geometricPrecision;
   transition: background-color 0.6s;
-  height: 100%;
   margin: 0;
   overscroll-behavior: none;
 }
@@ -37,7 +36,7 @@ body::before {
   bottom: 0px;
   opacity: 0.2;
   position: fixed;
-  background-image: url("https://cdn.jsdelivr.net/gh/fuyukivila/fuyukivila.github.io@gh-pages/img/bg.png");
+  background-image: url("https://s2.loli.net/2024/12/10/zuACeSQIYOgxDZJ.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   z-index: -1;
@@ -53,9 +52,6 @@ a:hover {
   text-decoration: underline;
 }
 .footer {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
   text-align: center;
   margin-top: 30px;
   margin-bottom: 20px;
@@ -1376,7 +1372,7 @@ label.el-checkbox {
   bottom: 0;
   width: 108px;
   height: 150px;
-  background: url("../img/back-to-top.png?v=1") no-repeat 0 0;
+  background: url("https://s2.loli.net/2024/12/10/fZHYFnOgk83x9ji.png") no-repeat 0 0;
   background-size: 108px 450px;
   opacity: 0.6;
   transition: opacity 0.3s, right 0.8s;
@@ -1412,7 +1408,7 @@ label.el-checkbox {
   bottom: 0;
   width: 108px;
   height: 150px;
-  background: url("../img/back-to-top.png?v=1") no-repeat 0 0;
+  background: url("https://s2.loli.net/2024/12/10/fZHYFnOgk83x9ji.png") no-repeat 0 0;
   background-size: 108px 450px;
   background-position: 0 -300px;
   transition: opacity 0.3s;
