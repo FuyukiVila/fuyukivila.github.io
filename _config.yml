@@ -4,12 +4,12 @@
 
 # Site
 title: イルミネーション
-subtitle: ''
-description: 'Hikari illuminates the world.'
-keywords: 'blog'
+subtitle: ""
+description: "Hikari illuminates the world."
+keywords: "blog"
 author: Fuyuki_Vila
 language: zh-cn
-timezone: 'Asia/ShangHai'
+timezone: "Asia/ShangHai"
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -37,7 +37,7 @@ titlecase: false # Transform title into titlecase
 external_link:
   enable: true # Open external links in new tab
   field: site # Apply to the whole site
-  exclude: ''
+  exclude: ""
 filename_case: 0
 render_drafts: false
 post_asset_folder: false
@@ -47,7 +47,7 @@ highlight:
   enable: false
   line_number: true
   auto_detect: false
-  tab_replace: ''
+  tab_replace: ""
 marked:
   headerIds: false
 
@@ -56,7 +56,7 @@ marked:
 # per_page: Posts displayed per page. (0 = disable pagination)
 # order_by: Posts order. (Order by date descending by default)
 index_generator:
-  path: ''
+  path: ""
   per_page: 10
   order_by: -date
 
@@ -99,7 +99,8 @@ plugin:
   - hexo-generator-feed
   - hexo-asset-image
   - hexo-prism-plugin
-  - hexo-toc
+  - hexo-auto-category
+  - hexo-generator-tag
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
@@ -130,11 +131,24 @@ feed:
   hub:
   content:
   content_limit: 140
-  content_limit_delim: ' '
+  content_limit_delim: " "
 
 # For syntax highlighting
 prism_plugin:
-  mode: 'preprocess'
-  theme: 'default'
+  mode: "preprocess"
+  theme: "default"
   line_number: true
-  custom_css: 'css/prism-theme.css'
+  custom_css: "css/prism-theme.css"
+
+auto_category:
+  enable: true
+  multiple: false
+
+cute:
+  enable: true
+  html:
+    enable: true
+  css: 
+    enable: true
+  js: 
+    enable: true

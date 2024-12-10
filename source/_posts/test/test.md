@@ -1,13 +1,14 @@
 ---
 title: 测试文章
-tags: []
-date: 2024-12-09 17:49:32
-categories:
 urlname: test
+tags:
+  - 测试
+categories:
+  - test
+date: 2024-12-09 17:49:32
 ---
 
 ## 测试文章
-
 ### 代码高亮测试
 
 ```python
