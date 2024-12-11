@@ -12,7 +12,7 @@ type: about
 
 本站使用开源静态网页生成工具 [Hexo](https://hexo.io/)，主题使用[三斤](https://geek.lc/)提供的 Geek，fork自[journey-ad](https://github.com/journey-ad/hexo-theme-geek)提供的 Custom
 
-托管于 [GitHub Pages](https://pages.github.com/)
+托管于 [Vercel](https://vercel.com/)
 
 由 [Cloudflare](https://www.cloudflare.com/) 提供 DNS 解析服务
 
