@@ -107,7 +107,7 @@ plugin:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/fuyukivila/fuyukivila.github.io
+  repo: https://github.com/fuyukivila/hikari.fuyuki.fun
   branch: gh-pages
 
 # Generate archive page

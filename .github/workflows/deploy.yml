@@ -29,8 +29,8 @@ jobs:
         id: replace
         run: |
           tagname=$(openssl rand -hex 4)
-          sed -i "s/fuyukivila.xyz/fuyukivila.xyz@$tagname/g" _config.yml
-          sed -i "s/fuyukivila.xyz/fuyukivila.xyz@$tagname/g" themes/geek/_config.yml
+          sed -i "s/hikari.fuyuki.fun/hikari.fuyuki.fun@$tagname/g" _config.yml
+          sed -i "s/hikari.fuyuki.fun/hikari.fuyuki.fun@$tagname/g" themes/geek/_config.yml
           echo "::set-output name=tagname::$tagname"
 
       - name: Installation
@@ -46,7 +46,7 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
-          cname: fuyukivila.xyz
+          cname: hikari.fuyuki.fun
 
       - name: Create Release
         uses: actions/create-release@v1
