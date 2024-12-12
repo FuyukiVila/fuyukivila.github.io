@@ -8,9 +8,9 @@ type: about
 
 ### **关于 Blog**
 
-本站从 [**2024.12.9**](https://time.is/zh/) 至今已经运行<span id="htmer_time" style="color: #90CAF9; font-weight: bold;"></span>
+本站从 [**2024.12.9**](https://time.is/zh/) 至今已经运行了 <span id="htmer_time" style="color: #90CAF9; font-weight: bold;"></span>
 
-本站使用开源静态网页生成工具 [Hexo](https://hexo.io/)，主题使用[三斤](https://geek.lc/)提供的 Geek，fork自[journey-ad](https://github.com/journey-ad/hexo-theme-geek)提供的 Custom
+本站使用开源静态网页生成工具 [Hexo](https://hexo.io/)，主题使用[三斤](https://geek.lc/)提供的 [Geek](https://github.com/sanjinhub/hexo-theme-geek)，fork自[journey-ad](https://nocilol.me/)提供的 [Custom](https://github.com/journey-ad/hexo-theme-geek)
 
 托管于 [Vercel](https://vercel.com/)
 

@@ -9,30 +9,29 @@
     "server": "hexo server"
   },
   "hexo": {
-    "version": "4.2.1"
+    "version": "7.3.0"
   },
   "dependencies": {
-    "hexo": "^4.0.0",
+    "hexo": "^7.3.0",
     "hexo-asset-image": "^1.0.0",
     "hexo-auto-category": "^0.2.2",
     "hexo-deployer-git": "^4.0.0",
-    "hexo-generator-archive": "^1.0.0",
+    "hexo-generator-archive": "^2.0.0",
     "hexo-generator-category-enhance": "^0.1.6",
-    "hexo-generator-feed": "^2.2.0",
-    "hexo-generator-index": "^1.0.0",
-    "hexo-generator-tag": "^1.0.0",
+    "hexo-generator-feed": "^3.0.0",
+    "hexo-generator-index": "^4.0.0",
+    "hexo-generator-tag": "^2.0.0",
     "hexo-prism-plugin": "^2.3.0",
-    "hexo-renderer-ejs": "^1.0.0",
-    "hexo-renderer-marked": "^2.0.0",
+    "hexo-renderer-ejs": "^2.0.0",
+    "hexo-renderer-marked": "^6.3.0",
     "hexo-renderer-pug": "^3.0.0",
-    "hexo-renderer-stylus": "^1.1.0",
-    "hexo-server": "^1.0.0"
+    "hexo-renderer-stylus": "^3.0.1",
+    "hexo-server": "^3.0.0"
   },
   "devDependencies": {
-    "cson": "^6.9.0",
-    "isomorphic-fetch": "^2.2.1",
-    "js-yaml": "^3.13.1",
-    "utility": "^1.16.3"
-  },
-  "packageManager": "yarn@1.22.22+sha512.a6b2f7906b721bba3d67d4aff083df04dad64c399707841b7acf00f6b133b7ac24255f2652fa22ae3534329dc6180534e98d17432037ff6fd140556e2bb3137e"
+    "cson": "^8.4.0",
+    "isomorphic-fetch": "^3.0.0",
+    "js-yaml": "^4.1.0",
+    "utility": "^2.2.0"
+  }
 }
