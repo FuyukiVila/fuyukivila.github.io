@@ -9,10 +9,10 @@
     "server": "hexo server"
   },
   "hexo": {
-    "version": "7.3.0"
+    "version": "6.3.0"
   },
   "dependencies": {
-    "hexo": "^7.3.0",
+    "hexo": "^6.2.0",
     "hexo-asset-image": "^1.0.0",
     "hexo-auto-category": "^0.2.2",
     "hexo-deployer-git": "^4.0.0",
@@ -33,5 +33,6 @@
     "isomorphic-fetch": "^3.0.0",
     "js-yaml": "^4.1.0",
     "utility": "^2.2.0"
-  }
+  },
+  "packageManager": "yarn@1.22.22+sha512.a6b2f7906b721bba3d67d4aff083df04dad64c399707841b7acf00f6b133b7ac24255f2652fa22ae3534329dc6180534e98d17432037ff6fd140556e2bb3137e"
 }
